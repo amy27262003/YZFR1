@@ -1,0 +1,32 @@
+body{
+    background:#999;
+	font-size:20;
+	color:blue;
+	background-image: url(http://www.motoplanete.com/galerie/Galerie_de_fonds_d_ecran/YAMAHA/SPORTIVES/1000_YZF-R1_2009//2009_R1_1280x960_030.jpg);
+	background-position: right;
+    background-repeat: no-repeat;
+}
+
+
+
+#content{
+	color: #FFFFFF;
+	background: rgba(255,255,255,0.3);
+	height:500px;
+	width: 90%;
+	margin-top:150px;
+	padding: 50px;
+	border-radius: 50px;
+	border:5px solid #000;
+	margin:50px auto;
+}
+
+.text{
+
+}
+
+header{
+/*	background-color:#ff0000;
+	padding:5px;	*/
+	border-bottom: 5px solid #FF0000;
+}
